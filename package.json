@@ -23,11 +23,11 @@
   },
   "dependencies": {
     "boom": "^4.2.0",
-    "hapi": "^16.0.1",
-    "hapi-swagger": "^7.5.0",
-    "inert": "^4.0.3",
-    "joi": "^10.0.6",
-    "speedtest-net": "^1.2.11",
+    "hapi": "^16.1.0",
+    "hapi-swagger": "^7.6.0",
+    "inert": "^4.1.0",
+    "joi": "^10.2.0",
+    "speedtest-net": "^1.2.12",
     "vision": "^4.1.1"
   }
 }
