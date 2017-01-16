@@ -1,0 +1,12 @@
+{
+  "serverConfig": {
+    "address": "localhost",
+    "port": 5656
+  },
+  "swaggerConfig": {
+    "title": "Speed-Test API Documentation",
+    "version": "1"
+  },
+  "speedTestMaxTime": 5000
+
+}

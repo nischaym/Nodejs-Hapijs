@@ -1,0 +1,33 @@
+{
+  "name": "staples-speed-test",
+  "version": "1.0.0",
+  "description": "a speed test services using hapijs",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hapijs",
+    "speed"
+  ],
+  "contributors": [
+    "Nischay Maridevegowda <nischay.maridevegowda@staples.com>"
+  ],
+  "author": "Nischay Maridevegowda <nischay.maridevegowda@staples.com>",
+  "license": "Staples",
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.staples.com/scm/mos/mos-speed.git"
+  },
+  "dependencies": {
+    "boom": "^4.2.0",
+    "hapi": "^16.0.1",
+    "hapi-swagger": "^7.5.0",
+    "inert": "^4.0.3",
+    "joi": "^10.0.6",
+    "speedtest-net": "^1.2.11",
+    "vision": "^4.1.1"
+  }
+}
