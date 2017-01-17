@@ -1,7 +1,7 @@
 {
-  "name": "staples-speed-test",
+  "name": "speed-test",
   "version": "1.0.0",
-  "description": "a speed test services using hapijs",
+  "description": "A speed test services using hapijs",
   "main": "server.js",
   "private": true,
   "scripts": {
@@ -13,13 +13,13 @@
     "speed"
   ],
   "contributors": [
-    "Nischay Maridevegowda <nischay.maridevegowda@staples.com>"
+    "Nischay Maridevegowda <nischaym@gmail.com>"
   ],
-  "author": "Nischay Maridevegowda <nischay.maridevegowda@staples.com>",
-  "license": "Staples",
+  "author": "Nischay Maridevegowda <nischaym@gmail.ocm>",
+  "license": "Nischay",
   "repository": {
     "type": "git",
-    "url": "ssh://git@bitbucket.staples.com/scm/mos/mos-speed.git"
+    "url": "https://github.com/nischaym/Nodejs-Hapijs.git"
   },
   "dependencies": {
     "boom": "^4.2.0",
