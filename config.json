@@ -1,6 +1,6 @@
 {
   "serverConfig": {
-    "address": "localhost",
+    "host": "localhost",
     "port": 5656
   },
   "swaggerConfig": {
